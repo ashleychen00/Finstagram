@@ -66,7 +66,7 @@ Fragments was a pretty cool topic to learn about in that it gave less responsibi
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Ashley Chen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
