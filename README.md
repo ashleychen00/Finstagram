@@ -2,7 +2,7 @@
 
 **Finstagram** is a photo sharing app using Parse as its backend.
 
-Time spent: **15** hours spent in total
+Time spent: **17** hours spent in total
 
 ## User Stories
 
@@ -40,14 +40,14 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. How to use fragments in more complex ways (e.g. fragments showing at the same time on one screen).
+1. How to use fragments in more complex ways (e.g. fragments showing at the same time on one screen), as well as how the FragmentManager works.
 2. Understanding more how the taking a photo/getting a photo from the camera/gallery process works.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough]()
+![Video Walkthrough](https://github.com/ashleychen00/Finstagram/blob/master/insta.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -60,7 +60,9 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Using Parse made a lot of things that should've been difficult much easier. 
+The most tedious challenge was due to updating libraries or dependencies that we weren't aware of since the videos were a little out of date.
+Fragments was a pretty cool topic to learn about in that it gave less responsibility to activities and more dynamic aspects to the app screen. 
 
 ## License
 
